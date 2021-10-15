@@ -3,3 +3,8 @@ matplotlib
 seaborn
 pandas
 numpy
+PyYAML
+
+# # local package install------------------
+# pip install -e requirements.txt  # << To install local package defined in setup.Py
+#  pip install -e . (If src in not pip list)
